@@ -18,6 +18,8 @@ dependencies:
   url_launcher: ^6.2.3
   intl: ^0.19.0
   fl_chart: ^0.66.2
+  google_polyline_algorithm: ^3.1.0
+  strava_client: ^2.1.0 #I can't be asked to do this myself...
 
   connectivity_plus: ^5.0.2
   battery_plus: ^5.0.2
