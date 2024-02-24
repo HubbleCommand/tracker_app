@@ -6,6 +6,7 @@ It was an interesting foray into Flutter after having not used it for so long, a
 The tracking part works without issue with the associated file I/O, however I am not finishing the rest.
 
 # CLI Script
+![1](https://github.com/HubbleCommand/tracker_app/assets/39958198/5e633936-a000-4bc4-ba28-27dfc494ec95)
 
 To upload the activities I have already recorded, I am writing a short Python script to convert them into the appropriate format that Strava accepts.
 
@@ -13,15 +14,4 @@ To upload the activities I have already recorded, I am writing a short Python sc
 # Tracker App
 Simple location tracker app. 
 
-Allows editing tracks.
 
-## TODO
-- Edit Tracks
-  - Path
-  - Split
-  - Merge (?)
-- Strava integration
-  - Download / upload / patch activities
-- Info graphs (already in Strava)
-  - Height
-  - Speed
